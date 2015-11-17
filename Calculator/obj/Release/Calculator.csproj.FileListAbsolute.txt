@@ -1,0 +1,7 @@
+C:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\nunit.framework.dll
+C:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\nunit.framework.xml
+C:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Release\Calculator.pdb

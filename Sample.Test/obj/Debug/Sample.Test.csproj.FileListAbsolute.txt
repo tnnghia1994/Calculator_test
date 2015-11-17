@@ -1,0 +1,9 @@
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\bin\Debug\Sample.Test.dll
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\bin\Debug\Sample.Test.pdb
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\bin\Debug\Calculator.exe
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\bin\Debug\nunit.framework.dll
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\bin\Debug\Calculator.pdb
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\bin\Debug\nunit.framework.xml
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\obj\Debug\Sample.Test.csprojResolveAssemblyReference.cache
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\obj\Debug\Sample.Test.dll
+c:\Users\Nghia-PC\Documents\Visual Studio 2013\Projects\Calculator\Sample.Test\obj\Debug\Sample.Test.pdb
