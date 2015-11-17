@@ -10,7 +10,7 @@ namespace Calculator
     {
         public int Add(int x, int y)
         {
-            return x + y + 2;
+            return x + y ;
         }
 
         public int Subtract (int x, int y)
